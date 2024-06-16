@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi 👋, I'm Shubham<br>A passionate Data Science student from India
 
 
